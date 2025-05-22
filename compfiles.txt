@@ -1,6 +1,16 @@
+./miPrincipal/Estudiante.java
 ./miPrincipal/EscribirArchivo.java
 ./miPrincipal/Principal.java
+./miPrincipal/ModificarArchivo.java
+./miPrincipal/EscrituraSecuencial.java
+./miPrincipal/CrearArchivo.java
+./miPrincipal/EliminarArchivos.java
+./miPrincipal/DeserializarEstudiante.java
+./miPrincipal/LecturaSecuencial.java
+./miPrincipal/SerializarEstudiante.java
 ./miPrincipal/LeerArchivoBinario.java
 ./miPrincipal/AccesoAleatorio.java
 ./miPrincipal/LeerArchivo.java
+./miPrincipal/EscrituraAleatoria.java
+./miPrincipal/LecturaAleatoria.java
 ./miTest/AppTest.java
