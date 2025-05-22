@@ -1,0 +1,3 @@
+culiacan 40 pericos
+pericos 5 comanito
+comanito 1 lamajada

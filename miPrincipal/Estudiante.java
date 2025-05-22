@@ -6,6 +6,7 @@ public class Estudiante implements Serializable{
     private int id;
     private String nombre;
     private int edad;
+    
 
     public Estudiante(int id, String nombre, int edad) {
         this.id = id;
